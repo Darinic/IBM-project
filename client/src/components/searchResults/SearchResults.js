@@ -9,7 +9,7 @@ export default (props) => {
 
   return (
     <>
-      <div className="row searchtile" onClick={() => navigate("/stock")}>
+      <div className="row searchtile" style={{cursor:'pointer'}} onClick={() => navigate("/stock")}>
         <div className="col-sm-3 tileText">
           <label>Company name:</label>
           <h6>{props.results.name}</h6>
