@@ -1,0 +1,22 @@
+.search-window {
+  text-align: center;
+  margin: auto;
+  margin-top: 1rem;
+}
+
+.card-body input {
+  height: 2.7rem;
+  padding: 0;
+  width: 370px;
+  padding-right: 6rem;
+  padding-left: 10px;
+  border-radius: 4px;
+}
+.card-body Button {
+  height: 2.5rem;
+  margin-top: 0.1rem;
+  margin-bottom: 0;
+  position: absolute;
+  margin-left: -4.65rem;
+  border-radius: 3px;
+}/*# sourceMappingURL=Search.css.map */

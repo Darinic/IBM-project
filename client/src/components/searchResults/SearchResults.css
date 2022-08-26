@@ -1,0 +1,42 @@
+.searchtile {
+  color: white !important;
+  width: 700px;
+  margin: auto !important;
+  margin-top: 2rem !important;
+  border: 1px solid yellow;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+.searchtile label {
+  color: rgb(51, 255, 0);
+}
+
+.searchtile h6 {
+  justify-content: center;
+  color: yellow;
+}
+
+.tileText {
+  text-align: center;
+}
+
+.notFound {
+  color: red;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 2rem;
+  font-family: "Montserrat", sans-serif;
+}
+
+@media only screen and (max-width: 420px) {
+  .searchtile {
+    max-width: 420px;
+  }
+  .searchtile label {
+    font-size: 18px;
+  }
+  .searchtile h6 {
+    font-size: 14px;
+  }
+}/*# sourceMappingURL=SearchResults.css.map */

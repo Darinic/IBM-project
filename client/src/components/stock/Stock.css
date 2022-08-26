@@ -1,0 +1,42 @@
+.stockInfo {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  margin: auto;
+  text-align: center;
+  width: 400px;
+}
+
+.stockInfo label {
+  color: white !important;
+}
+
+.stockInfo p {
+  color: yellow;
+  line-height: 20px;
+  max-width: 400px;
+  margin: auto;
+  text-align: left;
+}
+
+.h1title {
+  margin-bottom: 1rem;
+}
+
+.logoPicture {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  padding-top: 1rem;
+  text-align: center;
+}
+
+.logoPicture img {
+  width: 200px;
+  height: auto;
+}
+
+.stockChart {
+  color: yellowgreen;
+  font-family: "Montserrat", sans-serif;
+  margin-top: 3rem;
+  text-align: center;
+}/*# sourceMappingURL=Stock.css.map */
